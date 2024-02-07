@@ -1,0 +1,24 @@
+Create a new fill layer at the top of the layer stack and apply the provided "void" decal to it as a mask.
+Also keep in mind if there are multiple texture sets and/or multiple decals, depending on the situation you will need multiple fill layers.
+
+Make sure to use these settings on your fill layer:
+
+1. Base Color:
+-HEX: #000000
+-Mode: Normal
+
+2. Height:
+-Value: 0
+-Mode: Normal
+
+3. Roughness:
+-Value: 1
+-Mode: Normal
+
+4. Metallic:
+-Value: 0
+-Mode: Normal
+
+5. Normal:
+-HEX: #8080FF
+-Mode: Normal

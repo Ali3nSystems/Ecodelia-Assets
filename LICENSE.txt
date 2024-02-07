@@ -1,0 +1,6 @@
+Temporary Ali3n License
+
+Copyright (c) 2024 Ali3n Systems
+
+The contents of this package are for inspection only. You may not use, sell, etc. them anywhere.
+This is a temporary license that will soon be replaced with a permanent one that will tell you what you can do with the contents.

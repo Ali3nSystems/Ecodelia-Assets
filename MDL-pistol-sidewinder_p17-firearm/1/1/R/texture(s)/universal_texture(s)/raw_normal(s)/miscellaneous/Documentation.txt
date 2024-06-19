@@ -1,4 +1,0 @@
-The raw normal map "tset_1-pistol-raw_normal" doesn't have any barrel rifling by default.
-This is mainly because people may want different types of rifling on their barrel (polygonal rifling, no rifling at all, etc).
-In case you didn't want any custom rifling, I left in here a normal map which contains standard barrel rifling.
-You may use GIMP or Photoshop to overlay it on top of the normal map I specified earlier.
